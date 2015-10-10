@@ -1,7 +1,7 @@
 # Docker PHP env
 Based on  [PHP Dockerized](https://github.com/kasperisager/php-dockerized)
 
-### Reqierement:
+### Requirement:
 * [Docker Engine](https://docs.docker.com/installation/)
 * [Docker Compose](https://docs.docker.com/compose/)
 * [Docker Machine](https://docs.docker.com/machine/) (Windows / OS X only)
